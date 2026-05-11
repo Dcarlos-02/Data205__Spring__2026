@@ -10,6 +10,8 @@ The project uses publicly available datasets including:
 
 **Data montgomery crime report**: For offenses reported to the local police department. 
 
+https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3/about_data
+
 **US Census Bureau data:** For demographic and income data
 
 ## Methodology
